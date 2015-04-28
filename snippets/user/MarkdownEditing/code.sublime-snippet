@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+```${1:language}
+  $0
+```
+]]></content>
+  <tabTrigger>``</tabTrigger>
+  <scope>text.html.markdown.multimarkdown, text.html.markdown</scope>
+  <description>code block of GFM Style</description>
+</snippet>
